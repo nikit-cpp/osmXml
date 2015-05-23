@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <bounds minlat='55.7770889' minlon='37.5163043' maxlat='55.7781509' maxlon='37.5194424' origin='CGImap 0.4.0 (8745 thorn-01.openstreetmap.org)' />
+  <node id='270693749' timestamp='2011-08-08T11:30:11Z' uid='260756' user='Felis Pimeja' visible='true' version='9' changeset='8956122' lat='55.7772286' lon='37.5172836'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='303520886' timestamp='2011-08-08T13:10:30Z' uid='260756' user='Felis Pimeja' visible='true' version='7' changeset='8957058' lat='55.7773155' lon='37.5176153'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='303520893' timestamp='2011-08-08T11:30:12Z' uid='260756' user='Felis Pimeja' visible='true' version='5' changeset='8956122' lat='55.7772263' lon='37.5174857' />
+  <node id='307968237' timestamp='2010-03-17T18:39:41Z' uid='30590' user='KekcuHa' visible='true' version='3' changeset='4155495' lat='55.7771731' lon='37.5177724' />
+  <node id='599755015' timestamp='2010-03-17T18:39:41Z' uid='30590' user='KekcuHa' visible='true' version='2' changeset='4155495' lat='55.777417' lon='37.5157313' />
+  <node id='610282445' timestamp='2011-08-08T11:30:12Z' uid='260756' user='Felis Pimeja' visible='true' version='3' changeset='8956122' lat='55.7773539' lon='37.5171981' />
+  <node id='964624155' timestamp='2011-08-08T11:30:13Z' uid='260756' user='Felis Pimeja' visible='true' version='2' changeset='8956122' lat='55.7771997' lon='37.517508'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='1390556624' timestamp='2014-06-11T11:43:40Z' uid='260756' user='Felis Pimeja' visible='true' version='3' changeset='22869312' lat='55.7775026' lon='37.5160515'>
+    <tag k='name' v='Станция метро &quot;Полежаевская&quot;' />
+    <tag k='public_transport' v='stop_position' />
+    <tag k='trolleybus' v='yes' />
+  </node>
+  <node id='1390781111' action='delete' timestamp='2013-06-18T14:04:28Z' uid='260756' user='Felis Pimeja' visible='true' version='2' changeset='16604180' lat='55.7775073' lon='37.5208405' />
+  <node id='1390781142' timestamp='2013-06-18T14:04:28Z' uid='260756' user='Felis Pimeja' visible='true' version='2' changeset='16604180' lat='55.7776625' lon='37.5207814' />
+  <node id='1685018068' timestamp='2014-06-11T11:43:42Z' uid='260756' user='Felis Pimeja' visible='true' version='2' changeset='22869312' lat='55.7790106' lon='37.5167815' />
+  <node id='2351216888' action='delete' timestamp='2013-06-18T14:03:52Z' uid='260756' user='Felis Pimeja' visible='true' version='1' changeset='16604180' lat='55.7775384' lon='37.5208225' />
+  <node id='2701044407' timestamp='2014-03-04T09:18:56Z' uid='260756' user='Felis Pimeja' visible='true' version='1' changeset='20906014' lat='55.7782035' lon='37.5232275' />
+  <node id='2896330494' timestamp='2014-06-02T22:16:48Z' uid='260756' user='Felis Pimeja' visible='true' version='1' changeset='22703979' lat='55.7778089' lon='37.5174102' />
+  <node id='2922768860' timestamp='2014-06-18T23:35:12Z' uid='478018' user='Fantomas' visible='true' version='1' changeset='23015113' lat='55.7774852' lon='37.5190576' />
+  <way id='27634585' action='modify' timestamp='2011-08-12T12:16:03Z' uid='260756' user='Felis Pimeja' visible='true' version='7' changeset='8995431'>
+    <nd ref='270693749' />
+    <nd ref='303520893' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lit' v='yes' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='28046256' action='modify' timestamp='2014-06-18T23:35:31Z' uid='478018' user='Fantomas' visible='true' version='7' changeset='23015113'>
+    <nd ref='303520886' />
+    <nd ref='307968237' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='49845370' action='modify' timestamp='2014-06-22T21:26:11Z' uid='478018' user='Fantomas' visible='true' version='9' changeset='23089738'>
+    <nd ref='307968237' />
+    <nd ref='1390781142' />
+    <tag k='cladr:code' v='77000000000304900' />
+    <tag k='cladr:name' v='Хорошевское' />
+    <tag k='cladr:suffix' v='Шоссе' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Хорошёвское шоссе' />
+    <tag k='omkum:code' v='30230' />
+    <tag k='omkum:old_name' v='Воскресенское шоссе (Воскресенская дорога) (до 1917 г.)' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Хорошёвское шоссе' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='82877560' action='modify' timestamp='2011-12-12T20:12:52Z' uid='397326' user='trolleway' visible='true' version='6' changeset='10102473'>
+    <nd ref='303520893' />
+    <nd ref='303520886' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lit' v='yes' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='82877561' action='modify' timestamp='2011-08-12T12:17:27Z' uid='260756' user='Felis Pimeja' visible='true' version='5' changeset='8995431'>
+    <nd ref='964624155' />
+    <nd ref='307968237' />
+    <tag k='cladr:code' v='77000000000304900' />
+    <tag k='cladr:name' v='Хорошевское' />
+    <tag k='cladr:suffix' v='Шоссе' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Хорошёвское шоссе' />
+    <tag k='omkum:code' v='30230' />
+    <tag k='omkum:old_name' v='Воскресенское шоссе (Воскресенская дорога) (до 1917 г.)' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Хорошёвское  шоссе' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='87522946' action='modify' timestamp='2011-09-29T21:54:37Z' uid='260756' user='Felis Pimeja' visible='true' version='6' changeset='9431300'>
+    <nd ref='599755015' />
+    <nd ref='270693749' />
+    <tag k='cladr:code' v='77000000000304900' />
+    <tag k='cladr:name' v='Хорошевское' />
+    <tag k='cladr:suffix' v='Шоссе' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Хорошёвское шоссе' />
+    <tag k='omkum:code' v='30230' />
+    <tag k='omkum:old_name' v='Воскресенское шоссе (Воскресенская дорога) (до 1917 г.)' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Хорошёвское  шоссе' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='125454466' timestamp='2014-07-29T21:47:57Z' uid='478018' user='Fantomas' visible='true' version='4' changeset='24432523'>
+    <nd ref='610282445' />
+    <nd ref='1390556624' />
+    <tag k='cladr:code' v='77000000000304900' />
+    <tag k='cladr:name' v='Хорошевское' />
+    <tag k='cladr:suffix' v='Шоссе' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Хорошёвское шоссе' />
+    <tag k='omkum:code' v='30230' />
+    <tag k='omkum:old_name' v='Воскресенское шоссе (Воскресенская дорога) (до 1917 г.)' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Хорошёвское шоссе' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='131700454' timestamp='2011-09-29T21:53:54Z' uid='260756' user='Felis Pimeja' visible='true' version='1' changeset='9431300'>
+    <nd ref='270693749' />
+    <nd ref='964624155' />
+    <tag k='cladr:code' v='77000000000304900' />
+    <tag k='cladr:name' v='Хорошевское' />
+    <tag k='cladr:suffix' v='Шоссе' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Хорошёвское шоссе' />
+    <tag k='omkum:code' v='30230' />
+    <tag k='omkum:old_name' v='Воскресенское шоссе (Воскресенская дорога) (до 1917 г.)' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Хорошёвское  шоссе' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='131700455' action='modify' timestamp='2014-07-29T21:47:57Z' uid='478018' user='Fantomas' visible='true' version='2' changeset='24432523'>
+    <nd ref='303520886' />
+    <nd ref='610282445' />
+    <tag k='cladr:code' v='77000000000304900' />
+    <tag k='cladr:name' v='Хорошевское' />
+    <tag k='cladr:suffix' v='Шоссе' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Хорошёвское шоссе' />
+    <tag k='omkum:code' v='30230' />
+    <tag k='omkum:old_name' v='Воскресенское шоссе (Воскресенская дорога) (до 1917 г.)' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Хорошёвское шоссе' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='288718695' action='modify' timestamp='2014-06-18T23:35:13Z' uid='478018' user='Fantomas' visible='true' version='1' changeset='23015113'>
+    <nd ref='2922768860' />
+    <nd ref='303520886' />
+    <tag k='cladr:code' v='77000000000304900' />
+    <tag k='cladr:name' v='Хорошевское' />
+    <tag k='cladr:suffix' v='Шоссе' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Хорошёвское шоссе' />
+    <tag k='omkum:code' v='30230' />
+    <tag k='omkum:old_name' v='Воскресенское шоссе (Воскресенская дорога) (до 1917 г.)' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Хорошёвское шоссе' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+    <tag k='turn:lanes' v='through|through|through;right' />
+  </way>
+  <way id='288718698' action='modify' timestamp='2014-06-18T23:35:14Z' uid='478018' user='Fantomas' visible='true' version='1' changeset='23015113'>
+    <nd ref='2701044407' />
+    <nd ref='2922768860' />
+    <tag k='cladr:code' v='77000000000304900' />
+    <tag k='cladr:name' v='Хорошевское' />
+    <tag k='cladr:suffix' v='Шоссе' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='Хорошёвское шоссе' />
+    <tag k='omkum:code' v='30230' />
+    <tag k='omkum:old_name' v='Воскресенское шоссе (Воскресенская дорога) (до 1917 г.)' />
+    <tag k='oneway' v='yes' />
+    <tag k='sorting_name' v='Хорошёвское шоссе' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='288718704' action='modify' timestamp='2014-06-18T23:35:15Z' uid='478018' user='Fantomas' visible='true' version='1' changeset='23015113'>
+    <nd ref='1685018068' />
+    <nd ref='2896330494' />
+    <tag k='cladr:code' v='77000000000166000' />
+    <tag k='cladr:name' v='Куусинена' />
+    <tag k='cladr:suffix' v='Улица' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='6' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='улица Куусинена' />
+    <tag k='omkum:code' v='12980' />
+    <tag k='omkum:old_name' v='1-я Хорошёвская улица (1950 г.)' />
+    <tag k='sorting_name' v='Куусинена улица' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+  </way>
+  <way id='288718705' action='modify' timestamp='2014-06-18T23:35:15Z' uid='478018' user='Fantomas' visible='true' version='1' changeset='23015113'>
+    <nd ref='2896330494' />
+    <nd ref='303520886' />
+    <tag k='cladr:code' v='77000000000166000' />
+    <tag k='cladr:name' v='Куусинена' />
+    <tag k='cladr:suffix' v='Улица' />
+    <tag k='foot' v='no' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='6' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='улица Куусинена' />
+    <tag k='omkum:code' v='12980' />
+    <tag k='omkum:old_name' v='1-я Хорошёвская улица (1950 г.)' />
+    <tag k='sorting_name' v='Куусинена улица' />
+    <tag k='surface' v='asphalt' />
+    <tag k='trolley_wire' v='yes' />
+    <tag k='turn:lanes:forward' v='left|left|right' />
+  </way>
+ </osm>
